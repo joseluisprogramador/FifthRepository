@@ -1,0 +1,22 @@
+﻿
+En C#, tanto los métodos protegidos (protected) como los privados (private) son tipos de acceso
+que controlan la visibilidad y el alcance de los miembros de una clase.
+
+La diferencia principal radica en quién puede acceder a esos miembros:
+
+Privado (private): Los miembros marcados como privados solo son accesibles dentro de la propia 
+clase donde están definidos. Esto significa que no se puede acceder a ellos desde fuera de la 
+clase, ni siquiera desde clases derivadas (subclases). Este nivel de acceso se utiliza para ocultar
+la implementación interna de la clase y limitar la exposición de sus detalles internos.
+
+Protegido (protected): Los miembros protegidos son accesibles dentro de la propia clase donde 
+están definidos, así como dentro de las clases derivadas (subclases). Esto significa que los 
+miembros protegidos pueden ser utilizados por la clase que los define y por cualquier clase que
+herede de ella. Este nivel de acceso se utiliza para permitir que las clases derivadas accedan
+a ciertos miembros de la clase base, lo que facilita la extensión y la especialización de las clases.
+
+En cuanto al enfoque en la programación, el uso de estos niveles de acceso depende de la necesidad
+de encapsulación y de la relación entre las clases en un diseño orientado a objetos. El marcado de 
+miembros como privados o protegidos ayuda a controlar la exposición de la implementación interna de
+una clase y a promover la reutilización del código mediante la herencia. Es importante elegir el nivel 
+acceso adecuado según los requisitos del diseño y la arquitectura del software.

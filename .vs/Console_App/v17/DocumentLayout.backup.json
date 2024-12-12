@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose\\Desktop\\Console_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FA13DD-C819-4728-A06A-6914BB8CAD27}|Console_App.csproj|c:\\users\\jose\\desktop\\console_app\\delegates\\calculateareafigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FA13DD-C819-4728-A06A-6914BB8CAD27}|Console_App.csproj|solutionrelative:delegates\\calculateareafigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FA13DD-C819-4728-A06A-6914BB8CAD27}|Console_App.csproj|c:\\users\\jose\\desktop\\console_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FA13DD-C819-4728-A06A-6914BB8CAD27}|Console_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculateAreaFigure.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Console_App\\Delegates\\CalculateAreaFigure.cs",
+              "RelativeDocumentMoniker": "Delegates\\CalculateAreaFigure.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Console_App\\Delegates\\CalculateAreaFigure.cs",
+              "RelativeToolTip": "Delegates\\CalculateAreaFigure.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:05:39.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Console_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Console_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:35:59.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

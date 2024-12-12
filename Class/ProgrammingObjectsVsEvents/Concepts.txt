@@ -1,0 +1,24 @@
+﻿
+/*
+La programación orientada a objetos (POO) y la programación basada en eventos son
+dos paradigmas de programación diferentes, cada uno con su propio enfoque y características distintivas:
+
+Programación Orientada a Objetos (POO):
+
+En la POO, el programa se organiza alrededor de objetos que representan entidades del mundo
+real o conceptos abstractos.Los objetos tienen propiedades (datos) y métodos (funciones) que 
+operan en esos datos.Se enfoca en la encapsulación, la herencia y el polimorfismo como conceptos fundamentales.
+La reutilización de código se facilita mediante la creación de clases y la instanciación de objetos.
+Ejemplos de lenguajes orientados a objetos incluyen Java, C++, Python y C#.
+
+Programación Basada en Eventos (POE):
+En la programación basada en eventos, el flujo del programa está determinado por eventos
+queocurren durante la ejecución.Los eventos pueden ser acciones del usuario (clic del ratón, pulsación de teclas)
+o eventos del sistema (temporizadores, recepción de datos).
+Se utilizan manejadores de eventos para responder a estos eventos, lo que implica la definición de
+funciones que se ejecutarán cuando ocurra un evento específico.
+Este enfoque se utiliza comúnmente en interfaces de usuario (UI) y aplicaciones donde la interactividad
+es fundamental.Ejemplos de lenguajes que admiten programación basada en eventos incluyen 
+JavaScript (para aplicaciones web), C# (con su modelo de eventos y delegados en .NET), y 
+lenguajes para desarrollo de interfaces gráficas de usuario (GUI) como Java (con Swing) y Python (con Tkinter).
+*/
